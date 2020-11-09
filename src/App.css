@@ -37,3 +37,7 @@ body {
   font-size: 30px;
   color: #3d4037;
 }
+
+ul {
+  list-style-type: none;
+}
