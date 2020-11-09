@@ -6,7 +6,7 @@ export default function Footer() {
       {" "}
       <div class="container">
         <div class="box shadow-sm">
-          <a href="https://github.com/KittyN1/Weather-App">Open-source code</a>{" "}
+          <a href="https://github.com/KittyN1/React-weather-app">Open-source code</a>{" "}
           by Sky
         </div>
       </div>
